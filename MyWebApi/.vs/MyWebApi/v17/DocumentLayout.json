@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\MyWebApi\\MyWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C41DD472-0428-4442-AD37-C7CF8BAD0E7A}|ApiHelloWorld\\ApiHelloWorld.csproj|d:\\project\\mywebapi\\mywebapi\\apihelloworld\\controllers\\apihelloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41DD472-0428-4442-AD37-C7CF8BAD0E7A}|ApiHelloWorld\\ApiHelloWorld.csproj|solutionrelative:apihelloworld\\controllers\\apihelloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41DD472-0428-4442-AD37-C7CF8BAD0E7A}|ApiHelloWorld\\ApiHelloWorld.csproj|d:\\project\\mywebapi\\mywebapi\\apihelloworld\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41DD472-0428-4442-AD37-C7CF8BAD0E7A}|ApiHelloWorld\\ApiHelloWorld.csproj|solutionrelative:apihelloworld\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41DD472-0428-4442-AD37-C7CF8BAD0E7A}|ApiHelloWorld\\ApiHelloWorld.csproj|d:\\project\\mywebapi\\mywebapi\\apihelloworld\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41DD472-0428-4442-AD37-C7CF8BAD0E7A}|ApiHelloWorld\\ApiHelloWorld.csproj|solutionrelative:apihelloworld\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiHelloWorldController.cs",
+              "DocumentMoniker": "D:\\Project\\MyWebApi\\MyWebApi\\ApiHelloWorld\\Controllers\\ApiHelloWorldController.cs",
+              "RelativeDocumentMoniker": "ApiHelloWorld\\Controllers\\ApiHelloWorldController.cs",
+              "ToolTip": "D:\\Project\\MyWebApi\\MyWebApi\\ApiHelloWorld\\Controllers\\ApiHelloWorldController.cs",
+              "RelativeToolTip": "ApiHelloWorld\\Controllers\\ApiHelloWorldController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T02:44:15.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\Project\\MyWebApi\\MyWebApi\\ApiHelloWorld\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "ApiHelloWorld\\Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\Project\\MyWebApi\\MyWebApi\\ApiHelloWorld\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "ApiHelloWorld\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T02:36:36.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Project\\MyWebApi\\MyWebApi\\ApiHelloWorld\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ApiHelloWorld\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Project\\MyWebApi\\MyWebApi\\ApiHelloWorld\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ApiHelloWorld\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T02:17:19.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
